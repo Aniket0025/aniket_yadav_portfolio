@@ -33,7 +33,7 @@ export default function OverlayMenu({isOpen, onClose}) {
               "About",
               "Skills",
               "Project",
-              "Experience",
+              "Achievements",
               "Testimonials",
               "Contact",
             
